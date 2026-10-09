@@ -1,0 +1,32 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.RDataTmp
+
+# User-specific files
+.Ruserdata
+
+# Example: if you use RStudio
+.Rproj.user/
+
+# Output and temporary files
+*.Rout
+*.tmp
+scratch/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
