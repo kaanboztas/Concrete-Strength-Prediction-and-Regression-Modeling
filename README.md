@@ -34,7 +34,7 @@ Bu çalışma Dokuz Eylül Üniversitesi Regresyon Analizi dersi kapsamında aş
 ## 📂 Proje Dizin Yapısı (Repository Structure)
 
 ```text
-Beton-Dayanim-Tahmini-ve-Regresyon-Modellemesi/
+Concrete-Strength-Prediction-and-Regression-Modeling/
 │
 ├── data/
 │   ├── Beton1.xlsx                  # Ham Excel veri seti (1030 gözlem, 9 değişken)
@@ -232,8 +232,8 @@ Projeyi yerel ortamınızda klonlayıp çalıştırmak için aşağıdaki adıml
 
 ### 1. Depoyu Klonlayın
 ```bash
-git clone https://github.com/kaanboztas/Beton-Dayanim-Tahmini-ve-Regresyon-Modellemesi.git
-cd Beton-Dayanim-Tahmini-ve-Regresyon-Modellemesi
+git clone https://github.com/kaanboztas/Concrete-Strength-Prediction-and-Regression-Modeling.git
+cd Concrete-Strength-Prediction-and-Regression-Modeling
 ```
 
 ### 2. Gerekli R Paketlerini Kurun
